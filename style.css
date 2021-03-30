@@ -1,7 +1,9 @@
 ﻿body {
     font-family: 'Segoe UI', Calibri, Arial;
     margin:0;
-    background-color: cyan;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h2{
     font-weight:normal;
